@@ -1,0 +1,17 @@
+{
+  "name": "fs_part8",
+  "version": "1.0.0",
+  "description": "HY:n kurssille FullStackOpen osa 8 palautettavat tehtävät",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niko Raulas",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "graphql": "^16.10.0",
+    "uuid": "^11.0.3"
+  }
+}
